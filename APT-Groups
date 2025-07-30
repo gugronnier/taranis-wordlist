@@ -5,7 +5,7 @@
             "name": "APT",
             "description": "List of APT groups",
             "usage": 4,
-            "link": "",
+            "link": "https://raw.githubusercontent.com/gugronnier/taranis-wordlist/refs/heads/main/APT-Groups",
             "entries": [
                 {
                     "value": "Pumpkin Sandstorm",
